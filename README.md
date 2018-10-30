@@ -55,10 +55,7 @@ See the `tests` directory for details.
 `python manage.py test` to run the tests locally.
 
 
-<<<<<<< HEAD
-=======
 ## TODO TESTING
->>>>>>> testing
 
 - add parallelization
 - test with multiple python versions
